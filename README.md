@@ -21,7 +21,7 @@ Cloudflare Workers + Claude API でプロダクトを設計・開発・運営し
 | **[Tend](https://tend.xdcyw.net)** | ストリークなしの習慣トラッカー。習慣を植物として育てる |
 | **[参道](https://sando.xdcyw.net)** | 四国八十八ヶ所 巡礼の同行アプリ |
 | **[Hypomnema](https://hypomnema.xdcyw.net)** | マークダウン記号が出てこない見たまま編集メモ |
-| **[概念教](https://fuyukihatune-rgb.github.io/-)** | 哲学的思想サイト |
+| **[概念教](https://conceptism.xdcyw.net)** | 哲学的思想サイト |
 
 ## Stack
 
