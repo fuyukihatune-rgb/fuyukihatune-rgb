@@ -21,4 +21,4 @@ JavaScript / HTML / CSS
 
 - 🌐 [xdcyw.net](https://www.xdcyw.net)
 - 🐦 [X @Sirusu_Tanaka](https://x.com/Sirusu_Tanaka)
-- 📁 [Portfolio](https://fuyukihatune-rgb.github.io/ataraxia/)
+- 📁 [Portfolio](https://app.xdcyw.net)
