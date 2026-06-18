@@ -36,4 +36,4 @@ JavaScript / HTML / CSS
 
 - 🌐 [xdcyw.net](https://www.xdcyw.net)
 - 🐦 [X @Sirusu_Tanaka](https://x.com/Sirusu_Tanaka)
-- 📁 [Portfolio](https://app.xdcyw.net)
+- 📁 [Portfolio](https://apps.xdcyw.net)
